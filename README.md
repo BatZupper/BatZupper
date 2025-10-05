@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**BatZupper/BatZupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+      <foreignObject width="100%" height="100%">
+          <div style="text-align: center;">
+            <a href="https://github.com/BatZupper">
+              <img class="stats" src="https://github-readme-stats.vercel.app/api?username=BatZupper&hide=issues&show=prs_merged&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&hide_rank=true&custom_title=BatZupper%20stats"/>
+            </a>
+          </div>
+          <div style="text-align: center; margin-top: 0px;">
+            <a href="https://github.com/BatZupper">
+              <img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatZupper&hide_title=true&layout=compact&exclude_repo=yantra-app-launcher,yantra-script-hub&hide=html&size_weight=0.5&count_weight=0.5&theme=dracula&bg_color=00000000&hide_border=true"/>
+            </a>
+          </div>
+        </foreignObject>
+    </svg>
