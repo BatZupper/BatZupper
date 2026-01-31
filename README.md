@@ -1,4 +1,4 @@
-# My github descruption :3 
+# My github description :3 
 
 ## What are my skils?
 
