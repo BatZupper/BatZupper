@@ -1,14 +1,9 @@
-<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-      <foreignObject width="100%" height="100%">
-          <div style="text-align: center;">
-            <a href="https://github.com/BatZupper">
-              <img class="stats" src="https://github-readme-stats.vercel.app/api?username=BatZupper&hide=issues&show=prs_merged&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&hide_rank=true&custom_title=BatZupper%20stats"/>
-            </a>
-          </div>
-          <div style="text-align: center; margin-top: 0px;">
-            <a href="https://github.com/BatZupper">
-              <img class="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatZupper&hide_title=true&layout=compact&exclude_repo=yantra-app-launcher,yantra-script-hub&hide=html&size_weight=0.5&count_weight=0.5&theme=dracula&bg_color=00000000&hide_border=true"/>
-            </a>
-          </div>
-        </foreignObject>
-    </svg>
+# My github descruption :3 
+
+## What are my skils?
+
+I have high knowledge in Python, C and C# but i have experience in other languages like Javascript, PHP, Java and C++
+
+## Why there are so many MX Bikes and Hitman Codename 47 related projects
+
+I really like taking games with obscure file formats, figure them out and make public my tools and knowledge and these 2 games are full of obscure file formats 
